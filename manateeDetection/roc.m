@@ -1,0 +1,1 @@
+[X,Y,T,AUC] = perfcurve(labels,scores,posclass);
